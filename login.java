@@ -1,7 +1,7 @@
 class login
 {
 public static void main(String args[])
-a=50;
+a=2000;
 b=20;
 c=a+b;
 int length=333;
